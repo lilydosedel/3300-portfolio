@@ -701,7 +701,7 @@ input, select, textarea {
 				}
 
 					#header nav a:active:before {
-						background-color: rgba(255, 255, 255, 0.35);
+						background-color: rgba(0, 0, 0, 0.35);
 						color: #fff;
 					}
 
