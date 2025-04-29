@@ -10,21 +10,48 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="assets/css/main.css">
+		<link rel="stylesheet" href="cookie-popup.css">
 		<script src="https://kit.fontawesome.com/8ddc2ace5f.js" crossorigin="anonymous"></script>
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
 		<link
 		rel="icon"
 		href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👩🏻</text></svg>"
 	  />
-		<meta name="description" content="Web portfolio for Lily Dosedel">
+		<meta name="description" content="Web Portfolio for Lily Dosedel">
 		<meta name="author" content="Lily Dosedel">
   		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	  <!-- Twitter meta tags -->
+	  <meta name="twitter:card" content="summary">
+	  <meta name="twitter:site" content="@your-twitter-handle">
+	  <meta name="twitter:title" content="Lily Dosedel">
+	  <meta name="twitter:description" content="Web Portfolio for Lily Dosedel">
+	  <meta name="twitter:image" content="https://your-domain.com/path-to-image.png">
+	  
+	  <!-- Open Graph meta tags -->
+	  <meta property="og:type" content="website">
+	  <meta property="og:title" content="Lily Dosedel">
+	  <meta property="og:description" content="Web Portfolio for Lily Dosedel">
+	  <meta property="og:image" content="https://your-domain.com/path-to-image.png">
+	  <meta property="og:url" content="https://your-domain.com">
 	</head>
 	<body class="is-preload">
 		<div id="wrapper">
 			<div id="bg"></div>
 			<div id="overlay"></div>
 			<div id="main">
+
+				<!-- Cookie Popup -->
+				<div id="cookie-popup">
+					<p>
+					  By using this site you agree to the storing of cookies on your device to
+					  enhance site navigation and to analyze site usage. Learn more about our
+					  <a href="/cookie-policy.html">cookie policy</a>.
+					</p>
+					<p>
+					  <button id="accept-cookies">Accept</button>
+					</p>
+				  </div>
 
 				<!-- Header -->
 					<header id="header">
@@ -51,6 +78,9 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
+
+		<script src="cookie-popup.js"></script>
+
 			<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-N7MME08LD4"></script>
 		<script>
