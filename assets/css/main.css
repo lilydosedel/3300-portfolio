@@ -118,6 +118,10 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	.pic-link {
+
+	}
+
 		a:hover {
 			border-color: transparent;
 		}
@@ -1086,5 +1090,6 @@ input, select, textarea {
 			width: 400px; /* Set desired width */
 			height: 400px; /* Set desired height (must be equal to width for a circle) */
 			border-radius: 50%; /* Makes the image circular */
+			border: #fff;
 		  }
 		  
