@@ -1080,3 +1080,11 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
+
+		.circular-image {
+			width: 400px; /* Set desired width */
+			height: 400px; /* Set desired height (must be equal to width for a circle) */
+			border-radius: 50%; /* Makes the image circular */
+		  }
+		  
