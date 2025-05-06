@@ -558,13 +558,14 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
-			background-color: rgba(0,0,0,0.001);
+			background-color: rgba(25, 21, 21, 0.01);
 		}
 
 		#header p {
 			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
+			background-color: rgba(25, 21, 21, 0.01);
 		}
 
 		#header nav {
