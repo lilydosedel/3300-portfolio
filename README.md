@@ -12,5 +12,5 @@ Frontend: HTML, CSS
 Backend: N/A
 
 ## Credits 
-The base template used was designed by [HTML5 UP](http://html5up.net/).  
+Base template designed by [HTML5 UP](http://html5up.net/).  
 Aspects from Professor [Mike Colbert](https://github.com/mikecolbert)'s BAIS:3300 included.
