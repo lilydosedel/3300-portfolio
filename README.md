@@ -13,4 +13,4 @@ Backend: N/A
 
 ## Credits 
 Base template designed by [HTML5 UP](http://html5up.net/).  
-Aspects from Professor [Mike Colbert](https://github.com/mikecolbert)'s BAIS:3300 included.
+Aspects from Professor [Mike Colbert](https://github.com/mikecolbert)'s BAIS:3300 course included.
