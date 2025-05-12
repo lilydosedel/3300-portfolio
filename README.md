@@ -6,10 +6,14 @@ As the final project for Digital Product Management, this website serves as a pe
 ## Live Link
 [lilydosedel.com](https://lilydosedel.com/)
 
-
 ## Tech Stack
 Frontend: HTML, CSS  
 Backend: N/A
+
+## How to Run
+1. Clone the repository in GitHub (git clone https://github.com/lilydosedel/3300-portfolio.git)
+2. Run the site locally (npm run dev # or npm start
+3. Deploy the site using services like Azure, Vercel, Netlify, etc.
 
 ## Credits 
 Base template designed by [HTML5 UP](http://html5up.net/).  
