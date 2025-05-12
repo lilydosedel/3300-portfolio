@@ -12,7 +12,7 @@ Backend: N/A
 
 ## How to Run
 1. Clone the repository in GitHub (git clone https://github.com/lilydosedel/3300-portfolio.git)
-2. Run the site locally (npm run dev # or npm start
+2. Run the site locally (npm run dev OR npm start)
 3. Deploy the site using services like Azure, Vercel, Netlify, etc.
 
 ## Credits 
